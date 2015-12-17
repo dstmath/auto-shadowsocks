@@ -2,7 +2,6 @@
 parse the url "http://www.ishadowsocks.com/" to get free account automically.
 
 linux/osX用户教程
-guide:
 
 1 .安装shadowsocks 命令行版本你
 参考链接：https://shadowsocks.org/en/download/clients.html
