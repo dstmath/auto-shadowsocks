@@ -14,6 +14,6 @@ guide:
 python crawler.py
 
 TODO:
-1.目前http://www.ishadowsocks.com/这个网站的免费帐号6小时更新一次，下个版本计划加入定时任务每隔一定时间去重新获取一次帐号；
+1.目前http://www.ishadowsocks.com 这个网站的免费帐号6小时更新一次，下个版本计划加入定时任务每隔一定时间去重新获取一次帐号；
 
-2.http://www.ishadowsocks.com/提供了三个帐号，计划实现自动切换三个帐号功能选择最优帐号。
+2.http://www.ishadowsocks.com 提供了三个帐号，计划实现自动切换三个帐号功能选择最优帐号。
