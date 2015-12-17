@@ -10,3 +10,6 @@ guide:
 
 3.run the scripts
 python crawler.py
+
+TODO:
+1.timerTask: parse the account every three hours.
